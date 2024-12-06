@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Muhammad Umar 👋
 
-<!--
-**EncryptMan/EncryptMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🚀 Passionate student and aspiring software developer with a keen interest in AI, Blockchain and other cutting-edge technologies. As a student, I dedicate my time to personal projects, which allows me to continuously learn and adapt to new technologies. I find immense joy in this process of learning and growing. 
 
-Here are some ideas to get you started:
+## Projects
+### [Appine](https://appine.tech) (2024-Now)
+A no-code platform that allows you to create AI applications without writing a single line of code.
+- **Technologies Used**: Next.js, OpenAI API, Hugging Face API
+- **Challenges**: Implementing a user-friendly drag-and-drop interface
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [CoinShot](https://coinshot.pro) (2023-2024)
+Cryptocurrency Discord bot that provides real-time cryptocurrency data.
+- **Technologies Used**: Python, Discord API
+- **Challenges**: Ensuring real-time data accuracy and handling API rate limits
